@@ -17,4 +17,10 @@ Sam Altman felt defiant, hurt, and angry when OpenAI's board asked him to return
 ### Diving into the Node.js Website Redesign (7 minute read)
 
 Node.js recently revamped its website. This article explains the story of how it was redesigned. The site has many converging use cases, thousands of pages, and is a daily resource to many. Developers iterated to create a revamped developer experience, clearer CI/CD feedback, and an approachable tech stack.
+
 [Read the full article here](https://nodejs.org/en/blog/announcements/diving-into-the-nodejs-website-redesign)
+
+### Make beautiful websites with Next.js & MDX
+Simple, powerful and flexible site generation framework with everything you love from Next.js
+
+[Read More ](https://nextra.site/)
